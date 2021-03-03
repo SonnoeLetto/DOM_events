@@ -1,19 +1,4 @@
-// const $cube = document.querySelector('div');
-// let count = 0;
-// function changeColor() {
-//     let computedStyle = getComputedStyle($cube);
-//     // alert(computedStyle.backgroundColor)
-//     console.log(computedStyle.backgroundColor)
-//     if ((computedStyle.backgroundColor === 'rgb(255, 255, 255)')||(computedStyle.backgroundColor === 'rgb(255, 255, 0)')) {
-//         $cube.style.backgroundColor = 'blue'
-//     } else if (computedStyle.backgroundColor === 'rgb(0, 0, 255)') {
-//         $cube.style.backgroundColor = 'rgb(0, 255, 0)'
-//     } else if (computedStyle.backgroundColor === 'rgb(0, 255, 0)') {
-//         $cube.style.backgroundColor = 'rgb(255, 255, 0)'
-//     }
-//     console.log(e.target)
-// }
-// $cube.addEventListener('click', changeColor)
+
 
 
 
